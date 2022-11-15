@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\s0163554\source\repos\finishedGauss\Source.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\s0163554\source\repos\finishedGauss\Source.cpp(114,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  finishedGauss.vcxproj -> C:\Users\s0163554\source\repos\finishedGauss\x64\Debug\finishedGauss.exe
